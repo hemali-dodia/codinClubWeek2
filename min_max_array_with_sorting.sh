@@ -24,7 +24,7 @@ do
 	done
 done
 echo ${arr[@]}
-
+echo ${#arr[@]}
 echo ${arr[1]} " is 2nd largest value"
 echo ${arr[8]} " is 2nd smallest value"
 
